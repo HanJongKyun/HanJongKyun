@@ -1,4 +1,4 @@
-# JongKyun
+# HanJongKyun
 
 ## 🚀 기술 스택
 
