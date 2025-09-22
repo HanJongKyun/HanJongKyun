@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=자신의사용자이름&show_icons=true&theme=...)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanJongKyun)](https://github.com/HanJongKyun/github-readme-stats)
 
 
 
