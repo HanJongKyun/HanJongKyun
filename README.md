@@ -27,7 +27,7 @@
 ### 📬 연락처
 
 <p align="center">
-  <a href="mailto:hjk326333@gmail.com">hjk326333@gmail.com</a>
+  <img src="https://img.shields.io/badge/Email-hjk326333@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://www.notion.so/26acf8a4d0fe804b9181d13644995cb4?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </a>
