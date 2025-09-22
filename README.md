@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/HanJongKyun">
-    <img src="https://i.imgur.com/x0r26T0.gif" alt="Coding GIF" width="100%" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
   </a>
 </div>
 
