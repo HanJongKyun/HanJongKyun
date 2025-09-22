@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/HanJongKyun">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JongKyun GitHub!&fontSize=90" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JongKyunGitHub!&fontSize=90" />
   </a>
 </div>
 
