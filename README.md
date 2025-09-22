@@ -9,7 +9,7 @@
 
 ---
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanJongKyun)](https://github.com/HanJongKyun/github-readme-stats)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanJongKyun&show_icons=true&theme=tokyonight)](https://github.com/HanJongKyun/github-readme-stats)
 
 
 
