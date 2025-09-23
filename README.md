@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# 👋 안녕하십니까, 웹 백엔드 개발자를 준비 중인 한종균입니다.
+# 👋 웹 백엔드 개발자를 준비 중인 한종균입니다.
 
 
 ### 🚀 기술 스택
@@ -41,9 +41,6 @@
 <p align="center">
   <a href="mailto:hjk326333@gmail.com">
     <img src="https://img.shields.io/badge/Email-hjk326333@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&case=lower">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </a>
 </p>
 
